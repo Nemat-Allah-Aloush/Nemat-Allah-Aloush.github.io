@@ -1,4 +1,4 @@
-# Portfolio website (Still working on it)
+# Portfolio website
 This repository is for my [portfolio website](https://nemat-allah-aloush.github.io): Nemat Allah Aloush.
 
 The website presents some of the projects that I've worked on. Feel free to check out my portfolio, [here](https://nemat-allah-aloush.github.io).
